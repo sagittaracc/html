@@ -1,5 +1,5 @@
 {
-    "name": "sagittaracc/some-helper",
+    "name": "sagittaracc/html",
     "autoload": {
         "classmap": [
             "src/"

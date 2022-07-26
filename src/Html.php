@@ -3,11 +3,11 @@
 namespace sagittaracc;
 
 /**
- * This is me some helper
+ * This is me html helper
  * I use it for sagittaracc/suql
  * 
  * @author Yuriy Arutyunyan <sagittaracc@gmail.com>
  */
-class SomeHelper
+class Html
 {
 }

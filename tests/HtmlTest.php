@@ -4,9 +4,9 @@ declare(strict_types=1);
 
 use PHPUnit\Framework\TestCase;
 
-final class SomeTest extends TestCase
+final class HtmlTest extends TestCase
 {
-    public function testSomething(): void
+    public function testTag(): void
     {
         $expected = [];
         $actual = [];
